@@ -33,3 +33,4 @@ ISF Journal, 2014
 
 ### Authors
 Copyright holder: Federico Cerutti PhD <federico.cerutti@acm.org>, (c) 2013
+This is Subjective Logic Experimental Framework
